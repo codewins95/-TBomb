@@ -1,4 +1,4 @@
-<h1 align="center">TBomb v1.7b</h1>
+<h1 align="center">TBomb</h1>
 <p align="center">An open-source SMS/call bomber for Linux And Termux.</p><br>
 
 ## Note:
@@ -75,8 +75,8 @@ sudo bash TBomb.sh
 
 ## Demontrative Video:
 
-- Watch Indian Bombing Method <a href="https://youtu.be/9KWkwsr_QGw">here</a><br>
-- Watch International Bombing Method <a href="https://youtu.be/JqsHkyIcnPM">here</a><br>
+- Watch Indian Bombing Method <a href="https://www.youtube.com/watch?v=Z-JqMW6h-0w&t=8s">here</a><br>
+- Watch International Bombing Method <a href="#">here</a><br>
 
 
 
