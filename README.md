@@ -48,11 +48,29 @@ To use the bomber type the following commands in Termux:
 ```
 pkg install git
 pkg install python
-git clone https://github.com/TheSpeedX/TBomb.git
+git clone https://github.com/manish05s/TBomb.git
 cd TBomb
 chmod +x TBomb.sh
 ./TBomb.sh
 ```
+### > For Linux:
+
+**Notice:** 
+
+git installation methods are not universal and do differ between distributions,
+so, installing git as per instructions below may not work.
+Please check out how to install `git` for your Linux distribution.
+Commands below provide instructions for Debian-based systems.
+
+To use the bomber type the following commands in Linux terminal:
+```
+sudo apt install git
+git clone https://github.com/manish05s/TBomb.git
+cd TBomb
+chmod +x TBomb.sh
+sudo bash TBomb.sh
+```
+
 
 
 ## Demontrative Video:
